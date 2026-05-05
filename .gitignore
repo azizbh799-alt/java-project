@@ -1,0 +1,13 @@
+﻿# Compiled
+bin/
+*.class
+
+# VS Code
+.vscode/
+
+# Data files générés au runtime
+*.dat
+
+# OS
+Thumbs.db
+.DS_Store
